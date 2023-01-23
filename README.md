@@ -23,9 +23,9 @@
  
 <a href="https://linkedin.com/in/zhafie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhafie" height="30" width="40" /></a>
  
-<a href="https://fb.com/zhafie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zhafie" height="30" width="40" /></a>
+<a href="https://fb.com/shaafieabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zhafie" height="30" width="40" /></a>
  
-<a href="https://instagram.com/zhafie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhafie" height="30" width="40" /></a>
+<a href="https://instagram.com/shafie_abi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhafie" height="30" width="40" /></a>
  
 </p
 
