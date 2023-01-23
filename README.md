@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a project at [Kaizen It  ltd](https://github.com/stars/zhafie/lists/kaizen-it)
 
-- 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
+- 🌱 I’m currently learning **php ,Python ,javav`**
 - 📫 How to reach me **shaafiekhadar@gmail.com**
  
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/boqorem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zhafie" height="30" width="40" /></a>
  
-<a href="https://linkedin.com/in/zhafie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhafie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shafiekhadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhafie" height="30" width="40" /></a>
  
 <a href="https://fb.com/shaafieabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zhafie" height="30" width="40" /></a>
  
