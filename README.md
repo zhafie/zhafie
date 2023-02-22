@@ -2,7 +2,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Shafici Khadar Abi  </h1>
-<h3 align="center">A passionate full-stack web developer from Somalia</h3>
+<h3 align="center">A passionate full-stack web developer from Somaliland</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/422c8c98b9583219958a791ade62fd107b6f208f8814f940687d40c75cc98e2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f6d656469612f37396532366162623366623835623432663237323263663232646130393564632e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhafie&label=Profile%20views&color=0e75b6&style=flat" alt="zhafie" /> </p>
 
